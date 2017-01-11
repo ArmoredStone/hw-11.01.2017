@@ -24,7 +24,6 @@ public class Reader {
                System.exit(0);
            }
         System.out.print("Слово под номером "+number+" - "+done[number-1]);
-        System.out.println();
     }
 
 }
